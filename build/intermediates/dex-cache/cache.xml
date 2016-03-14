@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Willie2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-5926c5d9231ec87b1bd6b328b154e3b7d8fc66b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\pre-dexed\debug\classes-4f13c3b0e89fc15091c428dd5ec778df61a985ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\pre-dexed\debug\classes-d2005bee391bb01e9cb8657d189dbf7e034eab05.jar" />
+    </item>
+    <item
+        jar="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\pre-dexed\debug\classes-8856962bdcf8c81d5135a86cc551b36fcf00264f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\Willie2\Desktop\SEG-Tournament-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-62b6cee78ef5e57b75741b1f17453aa82b460d34.jar" />
+    </item>
+
+</items>
